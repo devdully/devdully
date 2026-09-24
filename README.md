@@ -50,14 +50,6 @@ solves the 4×4 sliding-tile puzzle with bfs, iterative deepening, a*, and ida*,
 
 a single-player blackjack game built with java and javafx, with bankroll management, betting, dealer logic, blackjack payouts, and hand evaluation.
 
-## github
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=devdully&show_icons=true&hide_border=true&rank_icon=github"
-    alt="abdallah's github stats"
-  />
-</p>
 
 ## elsewhere
 
